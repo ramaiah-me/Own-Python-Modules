@@ -8,14 +8,14 @@ Start contribute by creating your own python module
 
 Click on the Fork button in the top-right corner. This creates a new copy of my repo under your GitHub user account with a URL like:
 ```
-https://github.com/<YourUserName>/demo
+https://github.com/<YourUserName>/Own-Python-Modules
 ```
 The copy includes all the code, branches, and commits from this repo.
 
 Next, clone the repo by opening the terminal on your computer and running the command:
 ```bash
 # Clone your repository
-git clone https://github.com/<YourUserName>/demo
+git clone https://github.com/<YourUserName>/Own-Python-Modules
 
 # Go into the repository
 $ cd module
